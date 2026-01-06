@@ -126,7 +126,7 @@ Overall, the project highlights the value of data analytics in healthcare decisi
 ---
 
 
-![image](https://github.com/user-attachments/assets/56f6722a-2ca2-4415-b79a-b8fdd6f99635)
+<img width="285" height="177" alt="image" src="https://github.com/user-attachments/assets/69bd1e5a-da8d-462d-a825-2ce511ef35d9" />
 
 
 For any collaborative work or gigs, reach out to me at:
