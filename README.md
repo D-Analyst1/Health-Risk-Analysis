@@ -112,9 +112,11 @@ This project demonstrates the effective use of Python for comprehensive health d
 
 The findings emphasize the combined influence of blood pressure, cholesterol levels, blood sugar, BMI, and lifestyle behaviors such as smoking on cardiovascular outcomes. While individual risk factors show varying degrees of association with heart disease, their cumulative effect significantly increases overall risk. This reinforces the importance of holistic health assessment rather than isolated metric evaluation.
 
-Beyond the medical insights, this project showcases a complete analytical workflow—from data cleaning and feature engineering to exploratory analysis and interpretation—demonstrating how raw data can be transformed into meaningful insights. The approach used in this analysis can be applied to similar healthcare datasets and extended into predictive modeling, decision support systems, and preventive health strategies.
-
+Beyond the medical insights, this project showcases a complete analytical workflow—from data cleaning and feature engineering to exploratory analysis and interpretation—demonstrating how raw data can be transformed into meaningful insights. The approach used in this analysis can be applied to similar healthcare datasets and extended into predictive modeling, decision support systems, and preventive health strategies. 
+      
 Overall, the project highlights the value of data analytics in healthcare decision-making and provides a strong foundation for future work in machine learning, risk prediction, and health-focused data solutions.
+
+
 ---
 
 ---
